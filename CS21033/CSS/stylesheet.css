@@ -1,0 +1,58 @@
+body{
+    text-align: center;
+    background-color:aquamarine;
+    background-size: cover;
+    background-position-y: 100px;
+    background-repeat: no-repeat;
+    background-image: url("images/tricolor-1286684_640.jpg");
+        
+}
+
+#headerSection{
+    padding: 10px;
+    
+    
+}
+
+#headerSection h1{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+input{
+    padding: 10px;
+    width: 300px;
+    border-radius: 5px;
+    border-width: 3px;
+    font-size: medium;
+}
+select{
+    padding: 10px;
+    width: 300px;
+    border-width: 3px;
+    border-radius: 5px;
+
+}
+#loginbutton{
+    padding: 10px;
+    size: 100px;
+    border-radius: 15px;
+    background-color: rgb(0, 0, 0);
+    color: azure;
+    font-size: 15px;
+    width: 60px;
+    cursor: pointer;
+    
+    
+}
+#loginbutton:hover {
+    outline-color: transparent;
+    outline-style:solid;
+    box-shadow: 0 0 0 1px #000000;
+    background-color: rgb(46, 100, 239);
+    border-color: aliceblue;
+}
+#text{
+    color: rgb(100, 232, 102);
+}
+
+
